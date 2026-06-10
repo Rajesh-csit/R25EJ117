@@ -1,0 +1,29 @@
+Prompt 1:
+Generate a 2D Graphics Editor in C using a 2D character array.
+
+Response:
+Generated a menu-driven project supporting Rectangle, Line, Circle, Triangle, Delete Area, Modify Object, Display Canvas and Clear Canvas operations.
+
+Prompt 2:
+Generate graphics.h file.
+
+Response:
+Generated function declarations for all graphics operations.
+
+Prompt 3:
+Generate graphics.c file.
+
+Response:
+Generated implementations for drawing shapes and displaying the canvas.
+
+Prompt 4:
+Generate main.c file.
+
+Response:
+Generated the main menu-driven program for the 2D Graphics Editor.
+
+Prompt 5:
+Explain the project and provide sample inputs and outputs.
+
+Response:
+Provided explanation, working, sample inputs and outputs for all operations.
